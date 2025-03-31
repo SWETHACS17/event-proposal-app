@@ -24,7 +24,7 @@ npx shadcn@latest init
 
 Add necessary components:
 ```sh
-npx shadcn@latest add input button card select alert sidebar tabs
+npx shadcn@latest add input button card select alert sidebar tabs command popover
 ```
 ## 4. Install Lucide-React
 
@@ -36,4 +36,3 @@ npm install lucide-react
 ```sh
 npm run dev
 ```
-check1
